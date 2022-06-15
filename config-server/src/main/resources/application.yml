@@ -8,5 +8,8 @@ spring:
     config:
       server:
         git:
-          uri: file://C:\Users\dongjin931-PC\Desktop\git\spring-cloud-config\spring-cloud-config-git
+          uri: https://github.com/vmflstm1119/spring-cloud-config-yml.git
+#          uri: file://C:\Users\dongjin931-PC\Desktop\git\spring-cloud-config\spring-cloud-config-git #로컬 git repository로 설정하였을 떄
+#          username: gitId # git repository가 private일 때
+#          password: gitpwd
 
