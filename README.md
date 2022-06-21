@@ -6,6 +6,7 @@ Spring Cloud Config Server
 Docker에서 Kafka 구성
 
 docker pull wurstmeister/kafka
+
 docker pull wurstmeister/zookeeper
 
 ---
